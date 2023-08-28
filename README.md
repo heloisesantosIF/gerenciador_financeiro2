@@ -2,4 +2,4 @@
 **autor** Heloise Santos
 
 ### descrição do projeyo
-gerenciador financeiro, node, react e Mysql
+gerenciador financeiro, node, react e APP em React Native.
